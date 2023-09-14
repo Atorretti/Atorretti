@@ -6,7 +6,7 @@ FullStack Developer
 
 I'm a fresh Fullstack Developer, passionate about learning new technologies and always looking fore new challenges to continuous personal and professional growth!
 
-* 🌍  I'm based in Porto, Portugal.
+* 🌍  I'm based in Portugal.
 * ✉️  You can contact me at [my email](mailto:a_torreti@hotmail.com).
 * 🧠  I'm learning React.js and Mongo DB.
 * 🤝  I'm open to collaborating on Projects.
