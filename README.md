@@ -8,7 +8,7 @@ I'm a fresh Fullstack Developer, passionate about learning new technologies and 
 
 * 🌍  I'm based in Portugal.
 * ✉️  You can contact me at [my email](mailto:a_torreti@hotmail.com).
-* 🧠  I'm learning React.js and Mongo DB.
+* 🧠  I'm learning Docker and Kubernetes.
 * 🤝  I'm open to collaborating on Projects.
 
 ### Skills
